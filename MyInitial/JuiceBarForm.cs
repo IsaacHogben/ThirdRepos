@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace MyNameSpace
 {
+	//comment for git recommit
     public partial class JuiceBarForm : Form
     {
         // Declare class variables.
